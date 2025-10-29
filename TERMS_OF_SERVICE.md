@@ -267,12 +267,8 @@ We shall not be liable for any failure or delay in performance due to circumstan
 
 If you have any questions, concerns, or requests regarding these Terms or the Service, please contact us at:
 
-**Email**: [Your Contact Email]  
-**Website**: [Your Website]  
-**Support Portal**: [Your Support Portal URL]
-
-For data protection inquiries, please contact our Data Protection Officer at:  
-**Email**: [DPO Email]
+**Email**: justin @ marshmallow-services.com
+**Support Portal**: https://discord.gg/paradi
 
 ## 17. Acknowledgment
 
