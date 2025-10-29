@@ -10,6 +10,15 @@ The Paradi Web Group Management Dashboard is a service that uses Roblox OAuth 2.
 
 📄 **[View Terms of Service](TERMS_OF_SERVICE.md)**
 
+## Important: Customization Required
+
+Before deploying this Terms of Service, please update the following placeholders in the document:
+- `[Your Jurisdiction]` - Replace with the legal jurisdiction where your service operates (Section 14.1)
+- `[Your Contact Email]` - Replace with your support email address (Section 16)
+- `[Your Website]` - Replace with your website URL (Section 16)
+- `[Your Support Portal URL]` - Replace with your support portal link (Section 16)
+- `[DPO Email]` - Replace with your Data Protection Officer's email address (Section 16)
+
 ## Key Features Covered
 
 The Terms of Service document covers:
